@@ -1,6 +1,5 @@
 /*
  * Ejemplo para GitHub
- * Cambio
  */
 
 package com.mycompany.pruebagithub;
